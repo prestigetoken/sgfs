@@ -1,4 +1,4 @@
-# schoolgame
+# SnakeGame For School (SGFS)
 play this game in school for fun?
 idk how to get the game in........
 maybe i add the code here?
