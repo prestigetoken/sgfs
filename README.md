@@ -19,7 +19,7 @@ Play free!
     justify-content: center;
   }
   canvas {
-    border: 1px solid red;
+    border: 1px solid pink;
   }
   </style>
 </head>
@@ -76,7 +76,7 @@ function loop() {
     snake.cells.pop();
   }
   // draw apple
-  context.fillStyle = 'pink';
+  context.fillStyle = 'hotpink';
   context.fillRect(apple.x, apple.y, grid-1, grid-1);
   // draw snake
   context.fillStyle = 'hotpink';
