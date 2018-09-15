@@ -1,9 +1,8 @@
 # Snake Game For School (SGFS)
-play this game in school for fun?
-idk how to get the game in........
-maybe i add the code here?
-lemme try
-...............
+Want to play a game of Snake?
+In school?
+Then this is for you!
+Play free!
 
 <html>
 <head>
