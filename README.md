@@ -5,8 +5,6 @@ maybe i add the code here?
 lemme try
 ...............
 
-<!DOCTYPE html>
-
 <html>
 <head>
   <title>Pink Snake</title>
