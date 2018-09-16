@@ -4,7 +4,7 @@ Play the Snake Game For Free
 <p style="color:aqua;">
   With out it being blocked
   </p>
-<p style="color:hotpink;">
+ <p style="color:hotpink;">
   In School
   </p>
   
