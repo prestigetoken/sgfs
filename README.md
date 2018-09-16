@@ -126,7 +126,6 @@ requestAnimationFrame(loop);
 <html>
 <body>
 
-<h1 style="color:white;" align="center">The Time Is:</h1>
    
 <h2 style="color:white;" align="center" id="demo"></h2>
 
