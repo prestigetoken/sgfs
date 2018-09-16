@@ -148,6 +148,7 @@ function myTimer() {
 
 </body>
 </html>
-<body>
+
+<body style="color:white;">
   Made By Dale O'Beirne
   </body>
