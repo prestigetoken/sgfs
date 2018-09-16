@@ -133,7 +133,7 @@ requestAnimationFrame(loop);
 <body>
 
    
-<h2 style="color:white;" align="center" id="demo"></h2>
+<h1 style="color:white;" align="center" id="demo"></h1>
 
 
 
