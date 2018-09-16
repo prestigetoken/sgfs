@@ -3,24 +3,6 @@ Want to play a game of Snake?
 In school?
 Then this is for you!
 Play free!
-<html>
-<body>
-<title>Real Time</title>
-<h1 align="center">The Real Time:</h1>
-   
-<h2 align="center" id="demo"></h2>
-
-<script>
-var myVar = setInterval(myTimer, 1000);
-
-function myTimer() {
-    var d = new Date();
-    document.getElementById("demo").innerHTML = d.toLocaleTimeString();
-}
-</script>
-
-</body>
-</html>
 
 <html>
 <head>
@@ -146,3 +128,26 @@ requestAnimationFrame(loop);
 </script>
 </body>
 </html>
+
+<html>
+<body>
+<title>Real Time</title>
+
+<h1 style="color:white;" align="center">The Real Time:</h1>
+   
+<h2 style="color:white;" align="center" id="demo"></h2>
+
+
+
+<script>
+var myVar = setInterval(myTimer, 1000);
+
+function myTimer() {
+    var d = new Date();
+    document.getElementById("demo").innerHTML = d.toLocaleTimeString();
+}
+</script>
+
+</body>
+</html>
+
