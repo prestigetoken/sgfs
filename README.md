@@ -1,7 +1,7 @@
 <p style="color:red;">
 Play the Snake Game For Free
   </p>
-<p style="color:teal;">
+<p style="color:cyan;">
   With out it being blocked
   </p>
 <html>
