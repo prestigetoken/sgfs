@@ -86,10 +86,10 @@ function loop() {
     snake.cells.pop();
   }
   // draw apple
-  context.fillStyle = 'hotpink';
+  context.fillStyle = 'green';
   context.fillRect(apple.x, apple.y, grid-1, grid-1);
   // draw snake
-  context.fillStyle = 'hotpink';
+  context.fillStyle = 'red';
   snake.cells.forEach(function(cell, index) {
     context.fillRect(cell.x, cell.y, grid-1, grid-1);
     // snake ate apple
