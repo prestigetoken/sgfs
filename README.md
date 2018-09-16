@@ -4,6 +4,15 @@ Play the Snake Game For Free
 <p style="color:aqua;">
   With out it being blocked
   </p>
+  <p style="color:hotpink;"
+  </p>
+  
+  
+  
+  
+  
+  
+  
 <html>
 <head>
   <title>Pink Snake</title>
