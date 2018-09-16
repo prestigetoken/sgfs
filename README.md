@@ -1,9 +1,3 @@
-# Snake Game For School (SGFS)
-Want to play a game of Snake?
-In school?
-Then this is for you!
-Play free!
-
 <html>
 <head>
   <title>Pink Snake</title>
