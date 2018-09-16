@@ -125,9 +125,8 @@ requestAnimationFrame(loop);
 
 <html>
 <body>
-<title>Real Time</title>
 
-<h1 style="color:white;" align="center">The Real Time:</h1>
+<h1 style="color:white;" align="center">The Time Is:</h1>
    
 <h2 style="color:white;" align="center" id="demo"></h2>
 
