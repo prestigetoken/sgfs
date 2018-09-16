@@ -16,7 +16,7 @@ Play the Snake Game For Free
   
 <html>
 <head>
-  <title>Pink Snake</title>
+  <title>Snake</title>
   <style>
   html, body {
     height: 100%;
