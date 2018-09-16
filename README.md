@@ -1,8 +1,9 @@
 <p style="color:red;">
 Play the Snake Game For Free
   </p>
-
-
+<p style="colot:rainbow;">
+  With out it being blocked
+  </p>
 <html>
 <head>
   <title>Pink Snake</title>
