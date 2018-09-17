@@ -6,7 +6,7 @@ Play the Snake Game For Free
   </p>
  <p style="color:hotpink;">
   In School
-  </p>
+   </p>
   
    
   
