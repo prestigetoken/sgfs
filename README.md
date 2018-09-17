@@ -20,7 +20,7 @@ Play the Snake Game For Free
     margin: 0;
   }
    body {
-    background: white;
+    background: black;
     display: flex;
     align-items: center;
     justify-content: center;
