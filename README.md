@@ -20,7 +20,7 @@ Play the Snake Game For Free
     margin: 0;
   }
   body {
-    background:image: url("https://desktopwalls.net/wp-content/uploads/2015/08/Damasc%20Pattern%20Green%20Desktop%20Wallpaper.jpg")
+    background: color: black
     display: flex;
     align-items: center;
     justify-content: center;
