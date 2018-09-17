@@ -46,8 +46,8 @@ var snake = {
 };
 var count = 0;
 var apple = {
-  x: 220,
-  y: 220
+  x: 300,
+  y: 300
 };
 function getRandomInt(min, max) {
   return Math.floor(Math.random() * (max - min)) + min;
