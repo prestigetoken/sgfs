@@ -7,7 +7,7 @@ Play the Snake Game For Free
  <p style="color:hotpink;">
   In School
        </p>
-  <p style="color:aqua;"> Welcome To My Page! Dont Get Lost! </p>
+   <p style="color:teal;"> Welcome To My Page! Dont Get Lost! </p>
    
   
   
