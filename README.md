@@ -7,7 +7,7 @@ Play the Snake Game For Free
  <p style="color:hotpink;">
   In School
        </p>
-   <p style="color:blue;"> Welcome To My Page! Dont Get Lost! </p>
+ <p style="color:pink;"> DONT GET COUGHT PLAYEING OR IT MIGHT GET BLOCKED!</p>
    
   
   
