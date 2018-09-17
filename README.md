@@ -26,7 +26,7 @@ Play the Snake Game For Free
     justify-content: center;
   }
   canvas {
-    border: 1px solid yellow;
+    border: 2px solid white;
   }
   </style>
 </head>
