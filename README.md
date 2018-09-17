@@ -31,14 +31,14 @@ Play the Snake Game For Free
   </style>
 </head>
 <body>
-<canvas width="300" height="300" id="game"></canvas>
+<canvas width="320" height="320" id="game"></canvas>
 <script>
 var canvas = document.getElementById('game');
 var context = canvas.getContext('2d');
 var grid = 16;
 var snake = {
-  x: 260,
-  y: 260,
+  x: 160,
+  y: 160,
   dx: grid,
   dy: 0,
   cells: [],
@@ -46,8 +46,8 @@ var snake = {
 };
 var count = 0;
 var apple = {
-  x: 300,
-  y: 300
+  x: 320,
+  y: 320
 };
 function getRandomInt(min, max) {
   return Math.floor(Math.random() * (max - min)) + min;
