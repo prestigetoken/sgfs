@@ -37,8 +37,8 @@ var canvas = document.getElementById('game');
 var context = canvas.getContext('2d');
 var grid = 16;
 var snake = {
-  x: 160,
-  y: 160,
+  x: 260,
+  y: 260,
   dx: grid,
   dy: 0,
   cells: [],
