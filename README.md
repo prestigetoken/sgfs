@@ -6,7 +6,7 @@ Play the Snake Game For Free
   </p>
   <h1 style="color:purple;">
   @Squid Man </h1>
-<p sytle="color:purple;"><a href="https://discord.gg/">Visit the discord server</a></p>
+<p sytle="color:purple;"><a href="https://discord.gg/cjVRptT">Visit the discord server</a></p>
       
   <p style="color:purple;"> DONT GET COUGHT PLAYING OR IT MIGHT GET BLOCKED!</p>
    
