@@ -4,9 +4,9 @@ Play the Snake Game For Free
 <p style="color:aqua;">
   With out it being blocked
   </p>
-  <p style="color:purple;">
+  <h1 style="color:purple;">
   @Squid Man
-       </p>
+       </h1>
    <p style="color:purple;"> DONT GET COUGHT PLAYING OR IT MIGHT GET BLOCKED!</p>
    
    
