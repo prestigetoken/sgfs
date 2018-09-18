@@ -8,7 +8,7 @@ Play the Snake Game For Free
   @Squid Man
   <p style="color:purple;"> i also have a discord https://discord.gg/ </p>
        </h1>
-    <p style="color:purple;"> DONT GET COUGHT PLAYING OR IT MIGHT GET BLOCKED!</p>
+     <p style="color:purple;"> DONT GET COUGHT PLAYING OR IT MIGHT GET BLOCKED!</p>
    
    
   
