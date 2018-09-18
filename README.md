@@ -13,7 +13,7 @@ Play the Snake Game For Free
    
   
   
-<html>
+ <html>
 <head>
   <title>Snake</title>
   <style>
