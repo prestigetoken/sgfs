@@ -7,7 +7,7 @@ Play the Snake Game For Free
   <h1 style="color:purple;">
   @Squid Man
        </h1>
-   <p style="color:purple;"> DONT GET COUGHT PLAYING OR IT MIGHT GET BLOCKED!</p>
+    <p style="color:purple;"> DONT GET COUGHT PLAYING OR IT MIGHT GET BLOCKED!</p>
    
    
   
