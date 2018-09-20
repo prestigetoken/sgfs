@@ -24,7 +24,7 @@ ul {
 li a {
     display: block;
     color: #000;
-    padding: 8px 16px;
+    padding: 0px 0px;
     text-decoration: none;
 }
 
