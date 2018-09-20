@@ -6,11 +6,52 @@ Play the Snake Game For Free
   </p>
   <h1 style="color:purple;">
   @Squid Man </h1>
-<p sytle="color:purple;"><a href="https://discord.gg/cjVRptT">Visit the discord server</a></p>
-      
+<p sytle="color:purple;"><a href="https://discord.gg/cjVRptT">Visit the discord server</a></p>    
   <p style="color:purple;"> DONT GET COUGHT PLAYING OR IT MIGHT GET BLOCKED!</p>
    
    
+<html>
+<head>
+<style>
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 200px;
+    background-color: #f1f1f1;
+}
+
+li a {
+    display: block;
+    color: #000;
+    padding: 8px 16px;
+    text-decoration: none;
+}
+
+li a.active {
+    background-color: #4CAF50;
+    color: white;
+}
+
+li a:hover:not(.active) {
+    background-color: #555;
+    color: white;
+}
+</style>
+</head>
+<body>
+
+<h2>Vertical Navigation Bar</h2>
+
+<ul>
+  <li><a class="active" href="#home">Home</a></li>
+  <li><a href="#news">Names</a></li>
+  <li><a href="#contact">Links</a></li>
+  <li><a href="#about">About</a></li>
+</ul>
+
+</body>
+</html>
   
   
  <html>
