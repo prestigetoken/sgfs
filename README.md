@@ -40,13 +40,10 @@ li a:hover:not(.active) {
 </style>
 </head>
 <body>
-
-<h2>Vertical Navigation Bar</h2>
-
+ 
 <ul>
   <li><a class="active" href="#home">Home</a></li>
-  <li><a href="#news">Names</a></li>
-  <li><a href="#contact">Links</a></li>
+  <li><a href="#links">Links</a></li>
   <li><a href="#about">About</a></li>
 </ul>
 
