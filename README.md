@@ -3,7 +3,7 @@ Play the Snake Game For Free
   </p>
    <p style="color:aqua;">
   With out it being blocked
-  </p>
+   </p>
   <h1 style="color:purple;">
   @Squid Man </h1>
 <p sytle="color:purple;"><a href="https://discord.gg/cjVRptT">Visit the discord server</a></p>    
