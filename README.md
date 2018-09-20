@@ -24,7 +24,7 @@ ul {
 li a {
     display: block;
     color: #000;
-    padding: 0px 0px;
+    padding: 8px 16px;
     text-decoration: none;
 }
 
@@ -40,7 +40,8 @@ li a:hover:not(.active) {
 </style>
 </head>
 <body>
- 
+
+
 <ul>
   <li><a class="active" href="#home">Home</a></li>
   <li><a href="#links">Links</a></li>
@@ -49,6 +50,7 @@ li a:hover:not(.active) {
 
 </body>
 </html>
+
   
   
  <html>
@@ -60,13 +62,13 @@ li a:hover:not(.active) {
     margin: 0;
   }
    body {
-    background: lightgrey;
+    background: white;
     display: flex;
     align-items: center;
     justify-content: center;
   }
   canvas {
-    border: 2px solid white;
+    border: 2px solid black;
   }
   </style>
 </head>
