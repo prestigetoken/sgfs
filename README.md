@@ -60,7 +60,7 @@ li a:hover:not(.active) {
     margin: 0;
   }
    body {
-    background: white;
+    background: lightgrey;
     display: flex;
     align-items: center;
     justify-content: center;
