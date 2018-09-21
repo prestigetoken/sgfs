@@ -54,7 +54,7 @@ li a:hover:not(.active) {
  
  
  
- <p style="color:red;">
+  <p style="color:red;">
 Play the Snake Game For Free
    </p>
    <p style="color:aqua;">
