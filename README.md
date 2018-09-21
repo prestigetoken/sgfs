@@ -1,4 +1,4 @@
-<body>
+<body style="color:red;"> Navigation bar
  </body>
  
  
