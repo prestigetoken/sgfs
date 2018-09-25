@@ -36,8 +36,8 @@ li a:hover:not(.active) {
 <body>
 
  <ul>
-  <li><a class="active" href="#home">Home</a></li>
-  <li><a href="#links">links</a></li>
+  <li><a class="active" href="home">Home</a></li>
+  <li><a href="links">links</a></li>
   <li><a href="about">About</a></li>
 </ul>
 
