@@ -213,7 +213,7 @@ function myTimer() {
 </body>
 </html>
 
-<body style="color:grey;">
+<p style="color:grey;">
   Made By Dale O'Beirne
-    </body>
+    </p>
 
