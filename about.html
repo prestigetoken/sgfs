@@ -3,41 +3,49 @@
    <h1>Welcome to the About page</h1>
 <p style="font:100;">you will find everything you need to know about this website here in this page</p>
 
-
-  <html>
-    <head>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <style>
-    .btn {
-        border: none;
-        background-color: inherit;
-        padding: 14px 28px;
-        font-size: 16px;
-        cursor: pointer;
-        display: inline-block;
-    }
-    /* Red */
-    .danger {
-        color: green;
-    }
-    .danger:hover {
-        background:  #16d716;
-        color: white;
-    }
-    </style>
-    </head>
-    <body>
-       <button type="button" <a href="https://www.w3schools.com/html/" target="_blank"> </a>class="btn danger">Back To Home Page</button>
-    </body>
-    </html>
-
-
-<html>
-<head>
+<div>
+ <html>
+ <head>
 <style>
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
 
-</style>
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover:not(.active) {
+    background-color: #111;
+}
+
+.active {
+    background-color: #4CAF50;
+}
+ </style>
 </head>
-<body>
+ <body>
+
+ <ul>
+  <li><a class="active" href="sgfs">Home</a></li>
+  <li><a href="links.html">links</a></li>
+  <li><a href="about.html">About</a></li>
+</ul>
+
+</body>
+</html>
+ </div>
 
    
