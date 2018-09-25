@@ -34,7 +34,7 @@ li a:hover:not(.active) {
     background-color: #4CAF50;
 }
  </style>
-</head>
+ </head>
  <body>
 
  <ul>
