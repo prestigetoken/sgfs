@@ -1,4 +1,5 @@
- <html>
+
+<html>
 <style>
 body, html {
     height: 100%;
@@ -6,7 +7,7 @@ body, html {
 }
 
 .bgimg {
-    background-image: url('https://images.pexels.com/photos/240040/pexels-photo-240040.jpeg?auto=compress&cs=tinysrgb&h=650&w=940');
+    background-color:black;
     height: 100%;
     background-position: center;
     background-size: cover;
@@ -45,7 +46,6 @@ hr {
 
 <div class="bgimg">
   <div class="topleft">
-    <p>Logo</p>
   </div>
   <div class="middle">
     <h1>COMING SOON</h1>
