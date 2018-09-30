@@ -1,1 +1,2 @@
- <h1 style="color:white;" background-color:black;> COMING SOON </h1>
+ <body style="background-color:black;">
+<h1 style="color:white;"> COMING SOON </h1>
