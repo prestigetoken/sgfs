@@ -1,4 +1,3 @@
-  <!DOCTYPE html>
 <html>
 <style>
 body, html {
@@ -6,7 +5,7 @@ body, html {
     margin: 0;
 }
 
- .bgimg {
+.bgimg {
     background-image: url('https://images.pexels.com/photos/240040/pexels-photo-240040.jpeg?auto=compress&cs=tinysrgb&h=650&w=940');
     height: 100%;
     background-position: center;
@@ -17,7 +16,7 @@ body, html {
     font-size: 25px;
 }
 
- .topleft {
+.topleft {
     position: absolute;
     top: 0;
     left: 16px;
@@ -35,7 +34,7 @@ body, html {
     left: 50%;
     transform: translate(-50%, -50%);
     text-align: center;
-} 
+}
 
 hr {
     margin: auto;
@@ -46,18 +45,17 @@ hr {
 
 <div class="bgimg">
   <div class="topleft">
-
+    <p>Logo</p>
   </div>
   <div class="middle">
     <h1>COMING SOON</h1>
     <hr>
-    <p>unknown problem has occurred</p>
+    <p>unknown error has occurred</p>
   </div>
   <div class="bottomleft">
-    <p>Thanks for your cooperation</p>
+    <p>Thank you for your cooperation</p>
   </div>
 </div>
 
 </body>
 </html>
- 
