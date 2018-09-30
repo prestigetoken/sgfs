@@ -35,8 +35,7 @@ hr {
     margin: auto;
     width: 40%;
 }
-</style>
-<body>
+</style><body>
 
 <div class="bgimg">
   <div class="topleft">
