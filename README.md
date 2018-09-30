@@ -18,7 +18,7 @@ body, html {
     font-size: 25px;
 }
 
-.topleft {
+ .topleft {
     position: absolute;
     top: 0;
     left: 16px;
