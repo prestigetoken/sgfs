@@ -1,5 +1,5 @@
  <body style="background-color:black;">
-  <!DOCTYPE html>
+ <h1 style="color:white;"> PLEASE LOGING TO CONTINUE TO GAME</h1>
 <html>
 
 <head>
