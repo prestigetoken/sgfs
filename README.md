@@ -7,7 +7,7 @@ body, html {
     margin: 0;
 }
 
-.bgimg {
+ .bgimg {
     background-image: url('https://gilmourlance.org/wp-content/uploads/2017/02/woods-945405_960_720.jpg');
     height: 100%;
     background-position: center;
