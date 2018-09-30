@@ -1,6 +1,4 @@
-<h1>         </h1>
- <h1>         </h1>
- <h1>         </h1>
+
   <div>
  <html>
  <head>
@@ -54,35 +52,22 @@ li a:hover:not(.active) {
  
  
  
-  <p style="color:red;">
-Play the Snake Game For Free
-   </p>
-   <p style="color:aqua;">
-  With out it being blocked
-    </p>
-  <p style="color:purple;">
-  @Squid Man </p>
-<p sytle="color:purple;"><a href="https://discord.gg/cjVRptT">Visit the discord server</a></p>    
-  <p style="color:purple;"> DONT GET COUGHT PLAYING OR IT MIGHT GET BLOCKED!</p>
- 
-
- 
  <html>
- <head>
-  <title>Snake</title>
+<head>
+  <title>Snake Game</title>
   <style>
   html, body {
     height: 100%;
     margin: 0;
   }
-   body {
+  body {
     background: white;
     display: flex;
     align-items: center;
     justify-content: center;
   }
   canvas {
-    border: 2px solid black;
+    border: 1px solid black;
   }
   </style>
 </head>
@@ -142,7 +127,7 @@ function loop() {
   context.fillStyle = 'red';
   context.fillRect(apple.x, apple.y, grid-1, grid-1);
   // draw snake
-  context.fillStyle = 'green';
+  context.fillStyle = 'red';
   snake.cells.forEach(function(cell, index) {
     context.fillRect(cell.x, cell.y, grid-1, grid-1);
     // snake ate apple
@@ -191,9 +176,6 @@ requestAnimationFrame(loop);
 </script>
 </body>
 </html>
-
-<html>
-<body>
 
    
 <h1 style="color:black;" align="center" id="demo"></h1>
