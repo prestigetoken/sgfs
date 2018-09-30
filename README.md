@@ -8,7 +8,7 @@ body, html {
 }
 
  .bgimg {
-    background-image: url('https://gilmourlance.org/wp-content/uploads/2017/02/woods-945405_960_720.jpg');
+    background-image: url('http://sababadc.com/wp-content/uploads/2018/07/Woods-Wallpaper.jpg');
     height: 100%;
     background-position: center;
     background-size: cover;
