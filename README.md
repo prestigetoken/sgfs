@@ -8,7 +8,7 @@ body, html {
 }
 
 .bgimg {
-    background-image: url('/w3images/forestbridge.jpg');
+    background-image: url('https://gilmourlance.org/wp-content/uploads/2017/02/woods-945405_960_720.jpg');
     height: 100%;
     background-position: center;
     background-size: cover;
