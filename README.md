@@ -1,4 +1,4 @@
-   <body style="background-color:black;">
+    <body style="background-color:black;">
   <h1 style="color:white;"> PLEASE LOGIN TO CONTINUE TO GAME!</h1>
 <html>
 
