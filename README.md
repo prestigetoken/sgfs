@@ -1,17 +1,11 @@
 
  <html>
 <style>
-body, html {
-    height: 100%;
-    margin: 0;
+
 }
 
 .bgimg {
     background-color:black;
-    height: 100%;
-    background-position: center;
-    background-size: cover;
-    position: relative;
     color: white;
     font-family: "Courier New", Courier, monospace;
     font-size: 25px;
