@@ -7,7 +7,7 @@ body, html {
 }
 
  .bgimg {
-    background-image: url('http://sababadc.com/wp-content/uploads/2018/07/Woods-Wallpaper.jpg');
+    background-image: url('https://images.pexels.com/photos/240040/pexels-photo-240040.jpeg?auto=compress&cs=tinysrgb&h=650&w=940');
     height: 100%;
     background-position: center;
     background-size: cover;
