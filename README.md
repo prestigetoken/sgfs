@@ -169,7 +169,7 @@
                 <label for="psw"><b>Password</b></label>
                 <input type="password" placeholder="Enter Password" name="psw" required>
 
-               <a href="snake.html"> <button type="submit">Login</button> </a>
+               <a href="https://prestigetoken.github.io/sgfs/snake.html"> <button type="submit">Login</button> </a>
                 <label>
         <input type="checkbox" checked="checked" name="remember"> Remember me
       </label>
