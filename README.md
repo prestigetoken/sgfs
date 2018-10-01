@@ -144,7 +144,7 @@ hr {
 
       <div class="clearfix">
         <button type="button" onclick="document.getElementById('id01').style.display='none'" class="cancelbtn">Cancel</button>
-        <button type="submit" class="signupbtn">Sign Up</button>
+      <a href="snake.html> <button type="submit" class="signupbtn">Sign Up</button> </a>
       </div>
     </div>
   </form>
