@@ -1,6 +1,6 @@
    
  <body style="background-color:black;">
-  <h1 style="color:white;"> PLEASE LOGIN TO CONTINUE TO GAME!</h1>
+  <h1 style="color:white;"> PLEASE LOGIN TO CONTINUE TO GAME</h1>
 <html>
 
 <head>
@@ -170,7 +170,7 @@
                 <label for="psw"><b>Password</b></label>
                 <input type="password" placeholder="Enter Password" name="psw" required>
 
-               <button href="snake.html" type="submit">Login</button> 
+               <button type="submit"><a href="https://prestigetoken.github.io/sgfs/snake.html">Login</a></button>
                 <label>
         <input type="checkbox" checked="checked" name="remember"> Remember me
       </label>
