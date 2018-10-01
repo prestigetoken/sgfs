@@ -105,7 +105,31 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
 <body>
 
 
-    <a href="login.html"> <button class="btn default">Click To Go To Game</button> </a>
+  <a href="login.html"> <button class="btn default">Click To Go To Game</button> </a>
 
 </body>
 </html>
+
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+.btn {
+    border: none;
+    color: white;
+    padding: 14px 28px;
+    font-size: 16px;
+    cursor: pointer;
+}
+.default {background-color: #e7e7e7; color: black;} /* Gray */ 
+.default:hover {background: #ddd;}
+</style>
+</head>
+<body>
+
+
+   <a href="about.html"> <button class="btn default">Click To Go To 2048</button> </a>
+
+</body>
+</html>
+
