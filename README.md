@@ -1,4 +1,4 @@
- <!DOCTYPE html>
+
 <html>
 <title>SGFS</title>
 <meta charset="UTF-8">
