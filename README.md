@@ -37,7 +37,7 @@
         }
         /* Extra styles for the cancel button */
         
-         .cancelbtn {
+        .cancelbtn {
             width: auto;
             padding: 10px 18px;
             background-color: #f44336;
