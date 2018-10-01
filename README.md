@@ -87,9 +87,6 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
 
 
      
-     
-</body>
- </html>
 
    <html>
 <head>
@@ -108,7 +105,6 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
 </head>
 <body>
 
-<h1>Alert Buttons</h1>
 
 
     <a href="login.html"> <button class="btn default">Click To Go To Game</button> </a>
