@@ -24,7 +24,7 @@ input[type=text]:focus, input[type=password]:focus {
     outline: none;
 }
 
-/* Set a style for all buttons */
+ /* Set a style for all buttons */
 button {
     background-color: #4CAF50;
     color: white;
