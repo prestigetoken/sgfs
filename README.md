@@ -1,4 +1,4 @@
-<html>
+ <html>
 <title>SGFS</title>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -103,7 +103,6 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
 </style>
 </head>
 <body>
-
 
 
     <a href="login.html"> <button class="btn default">Click To Go To Game</button> </a>
