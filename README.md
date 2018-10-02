@@ -82,7 +82,7 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
 <a href="https://www.instagram.com/daleobeirne_real/"><button class="button"> To My Instagram</button> </a>
 
 
-     
+  <h1> </h1>
 
    <html>
 <head>
@@ -102,10 +102,12 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
 <body>
 
 
-  <a href="login.html"> <button class="btn default">Click To Go To Game</button> </a>
+  <a href="login.html"> <button class="btn default">Click To Go To Snake Game</button> </a>
 
 </body>
 </html>
+
+<h1> </h1>
 
 <html>
 <head>
