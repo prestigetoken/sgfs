@@ -82,7 +82,7 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
 <a href="https://www.instagram.com/daleobeirne_real/"><button class="button"> To My Instagram</button> </a>
 
 
-  <h1> </h1>
+  <p style="color:white;">Come play the Snake Game!</p>
 
    <html>
 <head>
@@ -107,7 +107,7 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
 </body>
 </html>
 
-<h1> </h1>
+<p style="color:white;">Come Play 2048!</p>
 
 <html>
 <head>
