@@ -45,7 +45,7 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
   <header class="w3-container w3-padding-32 w3-center w3-black" id="home">
     <h1 class="w3-jumbo"><span class="w3-hide-small">I'm</span> Dale O'Beirne.</h1>
     <p>Discord bot Dev. Website Dev.</p>
-    <img src="https://yt3.ggpht.com/-elGo4HFrd5U/AAAAAAAAAAI/AAAAAAAAAAA/d1HwED6dEqg/s108-c-k-no-mo-rj-c0xffffff/photo.jpg" alt=" My Youtube Channel" class="w3-image" width="992" height="1108">
+    <img src="<img src="https://instagram.fewr1-1.fna.fbcdn.net/vp/35539563a5450a01259febee3788ac23/5C52B145/t51.2885-19/41677604_229335404607395_3533050422790979584_n.jpg" alt="daleobeirne_real&#39;s profile picture"/>" alt=" My Youtube Channel" class="w3-image" width="992" height="1108">
   </header>
 
   <!-- About Section -->
