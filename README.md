@@ -140,10 +140,6 @@ body {font-family: Arial, Helvetica, sans-serif;}
 </head>
 <body>
 
-<h2>Image Modal</h2>
-<p>In this example, we use CSS to create a modal (dialog box) that is hidden by default.</p>
-<p>We use JavaScript to trigger the modal and to display the current image inside the modal when it is clicked on. Also note that we use the value from the image's "alt" attribute as an image caption text inside the modal.</p>
-
 <img id="myImg" src="<img src="https://instagram.fewr1-1.fna.fbcdn.net/vp/35539563a5450a01259febee3788ac23/5C52B145/t51.2885-19/41677604_229335404607395_3533050422790979584_n.jpg" alt="daleobeirne_real&#39;s profile picture"/>" alt="Instagram Photo Cant Load" style="width:100%;max-width:300px">
 
 <!-- The Modal -->
