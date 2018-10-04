@@ -140,13 +140,13 @@ body {font-family: Arial, Helvetica, sans-serif;}
 </head>
 <body>
 
-<img id="myImg" src="<img src="https://instagram.fewr1-1.fna.fbcdn.net/vp/35539563a5450a01259febee3788ac23/5C52B145/t51.2885-19/41677604_229335404607395_3533050422790979584_n.jpg" alt="daleobeirne_real&#39;s profile picture"/>" alt="Instagram Photo Cant Load" style="width:100%;max-width:300px">
+<img id="myImg" src="<img src="https://ih0.redbubble.net/image.479813078.9199/flat,800x800,075,f.u3.jpg" alt="daleobeirne_real&#39;s profile picture"/>" alt="Instagram Photo Cant Load" style="width:100%;max-width:300px">
 
 <!-- The Modal -->
 <div id="myModal" class="modal">
   <span class="close">&times;</span>
   <img class="modal-content" id="img01">
-  <div id="caption"></div>
+  <div id="caption">Picture Of Dale O'Beirne</div>
 </div>
 
 <script>
