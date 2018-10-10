@@ -1,7 +1,5 @@
   <html>
-<html>
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<body>
+
   
 <title>SGFS</title>
 <meta charset="UTF-8">
@@ -47,7 +45,7 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
 <div class="w3-padding-large" id="main">
   <!-- Header/Home -->
   <header class="w3-container w3-padding-32 w3-center w3-black" id="home">
-    <h1 class="w3-jumbo"vw><span class="w3-hide-small">I'm</span> Dale O'Beirne.</h1>
+    <h2 class="w3-jumbo"><span class="w3-hide-small">I'm</span> Dale O'Beirne.</h2>
     <p>Discord bot Dev. Website Dev.</p>
     <html>
 <head>
