@@ -48,6 +48,9 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
     <h2 class="w3-jumbo"><span class="w3-hide-small">I'm</span> Dale O'Beirne.</h2>
     <p>Discord bot Dev. Website Dev.</p>
     <html>
+      
+      <iframe src="https://discordapp.com/widget?id=455607654212173824&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0"></iframe>
+      
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
