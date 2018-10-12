@@ -68,7 +68,7 @@
 
 <div style="padding:20px">
   
-  <button class="btn info" onclick="on()">Turn on overlay effect</button>
+  <button  align="center" class="btn info" onclick="on()">Turn on overlay effect</button>
 </div>
 
 <script>
