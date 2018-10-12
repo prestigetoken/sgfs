@@ -1,5 +1,89 @@
  <html>
 
+
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+.btn {
+    border: none;
+    color: white;
+    padding: 14px 28px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+
+
+.info {background-color: #2196F3;} /* Blue */
+.info:hover {background: #0b7dda;}
+
+
+
+
+</style>
+</head>
+<body>
+
+
+
+
+</body>
+</html>
+
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+#overlay {
+    position: fixed;
+    display: none;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0,0,0,0.5);
+    z-index: 2;
+    cursor: pointer;
+}
+
+#text{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    font-size: 50px;
+    color: white;
+    transform: translate(-50%,-50%);
+    -ms-transform: translate(-50%,-50%);
+}
+</style>
+</head>
+<body>
+
+<div id="overlay" onclick="off()">
+  <div id="text">GIMME YOUR TICKET!</div>
+</div>
+
+<div style="padding:20px">
+  
+  <button class="btn info" onclick="on()">Turn on overlay effect</button>
+</div>
+
+<script>
+function on() {
+    document.getElementById("overlay").style.display = "block";
+}
+
+function off() {
+    document.getElementById("overlay").style.display = "none";
+}
+</script>
+     
+</body>
+</html> 
+
   
  <title>SGFS</title>
 <meta charset="UTF-8">
