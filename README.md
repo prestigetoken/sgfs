@@ -1,4 +1,4 @@
-  <a href="snake.html"> <button class="btn default">Click To Go To Calculator</button> </a>  
+   <a href="snake.html"> <button class="btn default">Click To Go To Calculator</button> </a>  
   
   
   
