@@ -1,28 +1,3 @@
-  <html>
-<html>
-<head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-.btn {
-    border: none;
-    color: white;
-    padding: 14px 28px;
-    font-size: 16px;
-    cursor: pointer;
-}
-
-
-
-.info {background-color: #2196F3;} /* Blue */
-.info:hover {background: #0b7dda;}
-
-
-
-
-</style>
-</head>
-<body>
-
 
 
 
