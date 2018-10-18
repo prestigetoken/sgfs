@@ -68,7 +68,7 @@
 
 <div style="padding:20px">
   
-  <button  class="btn info" onclick="on()" align="center">Press me</button>
+  <button  class="btn info" onclick="on()" align="center" >Press me</button>
 </div>
 
 <script>
