@@ -1,3 +1,6 @@
+  <a href="snake.html"> <button class="btn default">Click To Go To Calculator</button> </a>  
+  
+  
   
  <title>SGFS</title>
 <meta charset="UTF-8">
