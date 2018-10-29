@@ -1,4 +1,4 @@
- <a href="snake.html"> <button class="btn default">Click To Go To Calculator</button> </a>  
+
   
   
   
@@ -269,3 +269,29 @@ span.onclick = function() {
 </body>
 </html>
 
+
+<p>              </p>
+<p style="color:white;">Come use a calculator!</p>
+
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+.btn {
+    border: none;
+    color: white;
+    padding: 14px 28px;
+    font-size: 16px;
+    cursor: pointer;
+}
+.default {background-color: #e7e7e7; color: black;} /* Gray */ 
+.default:hover {background: #ddd;}
+</style>
+</head>
+<body>
+
+
+   <a href="snake.html"> <button class="btn default">Click To Go To Calculator</button> </a>
+
+</body>
+</html>
