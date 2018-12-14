@@ -3,17 +3,17 @@
 
 <head>
     <meta charset="utf-8">
-    <title>َLOGIN FORM</title>
+    <title>َLOGIN PAGE</title>
     <link rel="stylesheet" href="style.css">
 </head>
 
 <body>
 
-    <form class="box" action="home" method="post">
+    <form class="box" action="home.html" method="post">
         <h1>Login</h1>
         <input type="text" name="" placeholder="Username">
         <input type="password" name="" placeholder="Password">
-       <a/ href="home"> <input type="submit" name="" value="Login"> </a>
+        <input type="submit" name="" value="Login"> 
     </form>
 
 
