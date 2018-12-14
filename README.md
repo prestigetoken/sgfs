@@ -2,7 +2,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>َLOGIN PAGE</title>
+    <title>LOGIN PAGE</title>
    
 </head>
 
