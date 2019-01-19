@@ -10,31 +10,30 @@
 
 
 
-
+<!DOCTYPE html>
 <html lang="en" dir="ltr">
 
 <head>
     <meta charset="utf-8">
-    <title>LOGIN PAGE</title>
-   
+    <title>َLOGIN FORM</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 
 <body>
 
-    <form class="box" action="home.html" method="get">
+    <form class="box" action="homr.html" method=get>
         <h1>Login</h1>
         <input type="text" name="" placeholder="Username">
         <input type="password" name="" placeholder="Password">
-        <input type="submit"  name="" value="Login" href="home.html">
+        <input type="submit" name="" value="Login">
     </form>
-  
+
 
 </body>
 
 </html>
 <style>
     body {
-        margin: 0;
         padding: 0;
         font-family: sans-serif;
         background-size: cover;
@@ -97,5 +96,32 @@
     .box input[type="submit"]:hover {
         background: #2ecc71;
     }
-</style>  
-
+    
+    body {
+        padding: 0;
+        font-family: "montserrat";
+        background-image: linear-gradient(125deg, #2c3e50, #27ae60, #2980b9, #e74c3c, #8e44ad);
+        background-size: 400% 400%;
+        animation: bganimation 15s infinite;
+    }
+    
+    .text {
+        color: white;
+        text-align: center;
+        text-transform: uppercase;
+        margin: 350px 0;
+        font-size: 22px;
+    }
+    
+    @keyframes bganimation {
+        0% {
+            background-position: 0% 50%;
+        }
+        50% {
+            background-position: 100% 50%;
+        }
+        100% {
+            background-position: 0% 50%;
+        }
+    }
+</style>
