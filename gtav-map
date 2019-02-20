@@ -1,22 +1,20 @@
-
-
 <canvas style="display:block; margin:1em auto; background:#fff; border:1px solid #ccc"; id="SAMAP"></canvas>
 
 <script>
 
 var canvas = document.getElementById("SAMAP");
-    canvas.width = 800;
+	canvas.width = 800;
 canvas.height = 600;
 
-    var gkhead = new Image;
+	var gkhead = new Image;
 
-    window.onload = function(){     
+	window.onload = function(){		
     
     gkhead.src = '//s3.amazonaws.com/appforest_uf/f1496805493887x310323889600113000/Dispatch_Map_2.1.1.png';
     
-            var ctx = canvas.getContext('2d');
-            trackTransforms(ctx);
-          
+		    var ctx = canvas.getContext('2d');
+		    trackTransforms(ctx);
+		  
     function redraw(){
 
           // Clear the entire canvas
@@ -81,12 +79,12 @@ canvas.height = 600;
     
       canvas.addEventListener('DOMMouseScroll',handleScroll,false);
       canvas.addEventListener('mousewheel',handleScroll,false);
-    };
+	};
 
-    
-    // Adds ctx.getTransform() - returns an SVGMatrix
-    // Adds ctx.transformedPoint(x,y) - returns an SVGPoint
-    function trackTransforms(ctx){
+	
+	// Adds ctx.getTransform() - returns an SVGMatrix
+	// Adds ctx.transformedPoint(x,y) - returns an SVGPoint
+	function trackTransforms(ctx){
       var svg = document.createElementNS("http://www.w3.org/2000/svg",'svg');
       var xform = svg.createSVGMatrix();
       ctx.getTransform = function(){ return xform; };
@@ -102,13 +100,13 @@ canvas.height = 600;
       ctx.restore = function(){
         xform = savedTransforms.pop();
         return restore.call(ctx);
-              };
+		      };
 
       var scale = ctx.scale;
       ctx.scale = function(sx,sy){
         xform = xform.scaleNonUniform(sx,sy);
         return scale.call(ctx,sx,sy);
-              };
+		      };
     
       var rotate = ctx.rotate;
       ctx.rotate = function(radians){
@@ -146,6 +144,5 @@ canvas.height = 600;
           pt.x=x; pt.y=y;
           return pt.matrixTransform(xform.inverse());
       }
-    }
+	}
 </script>
-
