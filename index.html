@@ -22,7 +22,7 @@
             Username<input type="text" name="userid" placeholder="Username"/>
             Password<input type="password" name="pswrd" placeholder="Password"/>
             <input type="submit" onclick="check(this.form)" value="Login"/>
-            <input type="submit" value="Cancel"/>
+            <input type="reset" value="Cancel"/>
         </form>
   <!---   <form class="box" action="home.html" method=get>
       <h1><font size="10">Login</font></h1>
@@ -105,13 +105,31 @@
         border: 2px solid #2ecc71;
         padding: 14px 40px;
         outline: none;
-        color: white;
+        color: grey;
         border-radius: 24px;
         transition: 0.25s;
         cursor: pointer;
     }
     
     .box input[type="submit"]:hover {
+        background: #2ecc71;
+    }
+    
+    .box input[type="reset"] {
+        border: 0;
+        background: none;
+        display: block;
+        margin: 20px auto;
+        text-align: center;
+        border: 2px solid #2ecc71;
+        padding: 14px 40px;
+        outline: none;
+        color: grey;
+        border-radius: 24px;
+        transition: 0.25s;
+        cursor: pointer;
+    }
+        .box input[type="reset"]:hover {
         background: #2ecc71;
     }
     
@@ -124,7 +142,7 @@
     }
     
     .text {
-        color: white;
+        color: grey;
         text-align: center;
         text-transform: uppercase;
         margin: 350px 0;
