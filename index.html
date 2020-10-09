@@ -1,5 +1,5 @@
 
-<p>                 </p>
+<p>                  </p>
 
 <body oncontextmenu="return false;">
 <head>
@@ -42,60 +42,76 @@
 <body>
 
      <form class="box" method=get name="login">
-            <h2>Please Login To Use Site</h2><input type="text" name="userid" placeholder="Username"/>
-               <input type="password" name="pswrd" placeholder="Password"/>
-               <input type="submit" onclick="check(form)" value="Login"/>
-               <input type="reset" value="Cancel"/>
-           </form>
-   
-        <script language="javascript">
-               function check(form) { //function to check userid & password/
-                   //the following code checkes whether the entered userid and password are matching/
-                   if(form.userid.value == "fish" && form.pswrd.value == "chips") {
-                       window.location = "https://sgfs.netlify.app/hh.html%22";
-                   }
-                   else {
-                       alert("Error Password or Username");//displays error message*/
-                   }
-               }
-   
-   
-   
-           </script>
-       <!---  --->
-        <style>
-   .alert {
-     padding: 20px;
-     background-color: #f44336;
-     color: white;
-   }
-   
-   .closebtn {
-     margin-left: 15px;
-     color: white;
-     font-weight: bold;
-     float: right;
-     font-size: 22px;
-     line-height: 20px;
-     cursor: pointer;
-     transition: 0.3s;
-   }
-   
-   .closebtn:hover {
-     color: black;
-   }
-   </style>
-   
-       <body>
-   
-   
-   <div class="alert">
-     <span class="closebtn" onclick="this.parentElement.style.display='none';">&times;</span> 
-     <strong>:warning:WARNING:warning:</strong> Site is under development, we will be back shortly.   Will Be Back <i>XX-XX-XXXX </i> <b>unknown.</b>
-   
-   </body>
-   
-   </body>
+         <h2>Please Login To Use Site</h2><input type="text" name="userid" placeholder="Username"/>
+            <input type="password" name="pswrd" placeholder="Password"/>
+            <input type="submit" onclick="check(this.form)" value="Login"/>
+            <input type="reset" value="Cancel"/>
+        </form>
+     
+  <!---   <form class="box" action="home.html" method=get>
+      <h1><font size="10">Login</font></h1>
+        <h2 style="color: red;">
+           <font size="5">*REQUIRED TO USE*</font>
+        </h2>
+        <input type="text" name="" placeholder="Username">
+        <input type="password" name="" placeholder="Password"> 
+        <input type="submit" onclick="check(this.form)" value="Login"/> 
+     </form> --->
+ 
+
+     <script language="javascript">
+            function check(form) { /*function to check userid & password*/
+                /*the following code checkes whether the entered userid and password are matching*/
+                if(form.userid.value == "fish" && form.pswrd.value == "chips") {
+                    window.location = "https://sgfs.netlify.app/hh.html";/*opens the target page while Id & password matches*/
+                }
+                else {
+                    alert("Error Password or Username");/*displays error message*/   
+                }       
+            }
+         
+         
+                    
+        </script>
+    <!---  --->
+     <style>
+.alert {
+  padding: 20px;
+  background-color: #f44336;
+  color: white;
+}
+
+.closebtn {
+  margin-left: 15px;
+  color: white;
+  font-weight: bold;
+  float: right;
+  font-size: 22px;
+  line-height: 20px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.closebtn:hover {
+  color: black;
+}
+</style>
+    
+    <body>
+
+
+<div class="alert">
+  <span class="closebtn" onclick="this.parentElement.style.display='none';">&times;</span> 
+  <strong>⚠️WARNING⚠️</strong> Site is under development, we will be back shortly.   Will Be Back <i>XX-XX-XXXX </i> <b>unknown.</b>
+
+<!--- <div class="alert">
+  <span class="closebtn" onclick="this.parentElement.style.display='none';">&times;</span> 
+  <strong>⚠️WARNING⚠️</strong> Your password or username you entered is incorrect! 
+</div> --->
+
+</body>
+
+</body>
 
 </html>
 <style>
