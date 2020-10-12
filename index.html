@@ -62,13 +62,8 @@
  
 
      <script language="javascript">
-            function check(form) { /*function to check userid & password*/
-               var x = document.getElementById("myDIV");
-  if (x.style.display === "none") {
-    x.style.display = "block";
-  } else {
-    x.style.display = "none";
-  } /*the following code checkes whether the entered userid and password are matching*/
+            function check(form) { /*function to check userid & password*/ 
+                /*the following code checkes whether the entered userid and password are matching*/
                 if(form.userid.value == "fish" && form.pswrd.value == "chips") {
                     window.open=('hh.html');/*opens the target page while Id & password matches*/
                 }
