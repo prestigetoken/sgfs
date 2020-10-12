@@ -63,7 +63,12 @@
 
      <script language="javascript">
             function check(form) { /*function to check userid & password*/
-                /*the following code checkes whether the entered userid and password are matching*/
+               var x = document.getElementById("myDIV");
+  if (x.style.display === "none") {
+    x.style.display = "block";
+  } else {
+    x.style.display = "none";
+  } /*the following code checkes whether the entered userid and password are matching*/
                 if(form.userid.value == "fish" && form.pswrd.value == "chips") {
                     window.open=('hh.html');/*opens the target page while Id & password matches*/
                 }
@@ -102,7 +107,7 @@
     <body>
 
 
-<div class="alert">
+<div id="myid"class="alert">
   <span class="closebtn" onclick="this.parentElement.style.display='none';">&times;</span> 
   <strong>⚠️WARNING⚠️</strong> Site is under development, we will be back shortly.   Will Be Back <i>XX-XX-XXXX </i> <b>unknown.</b>
 
